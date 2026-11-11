@@ -1,6 +1,6 @@
 # OpenCode for Older CPUs — Windows x64
 
-OpenCode **v2.2.6** packaged to run on Windows computers where the standard version won't start.
+OpenCode **v2.2.7** packaged to run on Windows computers where the standard version won't start.
 
 If you see this error, this is the fix:
 
@@ -16,7 +16,7 @@ this CPU is missing SSE4.2 support, which Bun requires
 
 ---
 
-![Opencode running](images/opencode-screenshot.png)
+![Opencode running](images/opencode-v2.2.7.png)
 
 ---
 
